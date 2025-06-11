@@ -46,7 +46,7 @@ interface ApiError {
   request?: any;
   message: string;
 }
-
+//alfonz perez Web Dev 2 Section C
 // Define the theme colors
 const theme = {
   background: '#ffffff', // Pure white background
